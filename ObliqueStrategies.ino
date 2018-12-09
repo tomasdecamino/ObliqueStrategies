@@ -1,3 +1,5 @@
+//CReado pot Tomás de Camino Beck
+
 #include <LiquidCrystal.h>
 #include "frases.h"
 
